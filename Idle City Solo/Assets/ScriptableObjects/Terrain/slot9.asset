@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3813f311d1a7dfc4b9826a7249be278c, type: 3}
+  m_Name: slot9
+  m_EditorClassIdentifier: 
+  _GameController: {fileID: 0}
+  idSlot: 9
+  slotCard: {fileID: 11400000, guid: cfd0f4c2a4d8a3d4988218d4dd5f2a58, type: 2}
+  initialCard: {fileID: 11400000, guid: cfd0f4c2a4d8a3d4988218d4dd5f2a58, type: 2}
+  isPurchased: 0
+  isMax: 0
+  isAutoProduction: 0
+  slotPrice: 6.6e+20
+  slotLevel: 1
+  upgrades: 0
+  totalUpgrades: 0
+  upgradePrice: 4.275e+19
+  slotProduction: 2.85e+19
+  slotTimeProduction: 300
+  slotProductionMultiplier: 1
+  slotProductionReduction: 1

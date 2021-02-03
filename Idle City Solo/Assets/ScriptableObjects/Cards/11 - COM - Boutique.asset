@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef73dcdefbb5b64b95c6f385ff6f260, type: 3}
+  m_Name: 11 - COM - Boutique
+  m_EditorClassIdentifier: 
+  idCard: 11
+  cardName: Boutique
+  spriteCard: {fileID: 21300000, guid: cd4ed393df5dc1049a0e13d23a888d2d, type: 3}
+  shadownCard: {fileID: 21300000, guid: a3b12a4090344ef438b1bcae867d6bfb, type: 3}
+  rarityCard: 1
+  isLiberate: 0
+  levelCard: 1
+  cardCollected: 0
+  production: 2.35e+26
+  timeProduction: 420
+  productionMultiplier: 1
+  productionReduction: 1
+  isMax: 0

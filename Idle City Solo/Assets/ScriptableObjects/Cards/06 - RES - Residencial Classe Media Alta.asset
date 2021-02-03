@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef73dcdefbb5b64b95c6f385ff6f260, type: 3}
+  m_Name: 06 - RES - Residencial Classe Media Alta
+  m_EditorClassIdentifier: 
+  idCard: 6
+  cardName: Residencial Classe Media Alta
+  spriteCard: {fileID: 21300000, guid: d6425130e8858c54eb466b9e0a572d97, type: 3}
+  shadownCard: {fileID: 21300000, guid: fe3155a26b0423448b3a1c1e555ae74f, type: 3}
+  rarityCard: 1
+  isLiberate: 0
+  levelCard: 1
+  production: 91000000000
+  timeProduction: 120
+  productionMultiplier: 1
+  productionReduction: 1
+  isMax: 0

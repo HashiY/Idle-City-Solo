@@ -1,0 +1,6 @@
+Para cria uma nova construçao
+cria 1 carta (cards)
+1 slot (terrain)
+1 slot (construçao) mudando o build 
+1 slot collection - PanelCollection - Scroll View - Viewport - Content - nova card
+e coloca tudo no gamecontroller (GameManager) - slot collection , cards, slot

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef73dcdefbb5b64b95c6f385ff6f260, type: 3}
+  m_Name: 14 - TUR - Torre Eiffel
+  m_EditorClassIdentifier: 
+  idCard: 14
+  cardName: Torre Eiffel
+  spriteCard: {fileID: 21300000, guid: b48c1662a724ad048b432bf067222713, type: 3}
+  shadownCard: {fileID: 21300000, guid: 56cd605d5fb6a864795ffd4e9427c314, type: 3}
+  rarityCard: 3
+  isLiberate: 0
+  levelCard: 1
+  production: 4.3e+35
+  timeProduction: 600
+  productionMultiplier: 1
+  productionReduction: 1
+  isMax: 0
